@@ -1,7 +1,7 @@
-drop database if exists edunovajp21;
+﻿drop database if exists edunovajp21;
 create database edunovajp21 default character set utf8;
 use edunovajp21;
-# ovu sljedeću liniju copy/psate u command prompt
+# ovu sljedeću liniju copy/psate u command promptttttt
 # PRIPAZITI SAMO NA PUTANJU DATOTEKE
 # c:\xampp\mysql\bin\mysql.exe -uedunova -pedunova --default-character-set=utf8 < f:\skriptajp21.sql
 
